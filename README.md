@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eveivy
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Typescript, NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
